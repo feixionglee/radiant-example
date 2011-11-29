@@ -1,0 +1,3 @@
+[submodule "vendor/extensions/chronicle"]
+	path = vendor/extensions/chronicle
+	url = git@github.com:feixionglee/radiant-chronicle-extension.git 
